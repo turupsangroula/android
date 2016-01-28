@@ -1,0 +1,10 @@
+1 git int <project > project now repository 
+ 2 git add add all files to staging 
+  3 git commit -m "message" snapshot
+
+jpt
+
+/// git status   status of flie
+ git log  commit history 
+ git diff vies diffirences 
+ git diff --cached  differences in staging
